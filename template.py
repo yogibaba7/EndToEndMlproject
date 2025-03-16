@@ -22,7 +22,7 @@ list_of_files = [
     "app.py",
     "setup.py",
     "requirements.txt"
-
+ 
 ]
 
 for file_path in list_of_files:
